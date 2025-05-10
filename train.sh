@@ -1,0 +1,1 @@
+python train.py --data_root ./datasets/UTKFace_organized --debug --gpu 0 --model resnet50 --batch_size 64 --display
